@@ -1,2 +1,5 @@
 # Health_and_Fitness-Controller-and-Planner
-This Health and Fitness app, built using C language with a console-based interface, helps users maintain their well-being by calculating BMI and BMR, offering personalized diet plans, and tracking calorie intake and burn. It includes 7-day diet plans for Dengue, Diabetes, and COVID, guiding users to achieve and maintain a healthy weight.
+The Project is about maintaining and monitoring one’s Health and Fitness. The user will initially Sign Up into the Application and then would be allowed to proceed to the features of the Application. Our application is designed to calculate the BMI(Body Mass Index), BMR(Basal Metabolic Rate) including a 7 Days Diet Plan Charts for 3 common diseases which include Dengue, Diabetes and COVID.  
+Through one’s calculated BMR, a person can be identified as Underweight, Normal Weight, Over Weight and Obese. Then the respective instructions are allocated in order to bring the person’s BMI to fall in the Normal Category back again.
+Through BMR a person can monitor it’s Calories Intake and Calories Burnt through the MET(Metabolic Equivalent of Task).
+We also have 3 Diseases Diet Plans as specified above and it will allow the user to maintain his/her health by abstaining from the regular foods he/she consumes and stay restricted to the foods specified for Breakfast, Lunch and Dinner.
